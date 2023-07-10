@@ -1,3 +1,4 @@
 env: 'dev'
 payments:
     isEnabledDre: true
+    url: "http://localhost:8080"
